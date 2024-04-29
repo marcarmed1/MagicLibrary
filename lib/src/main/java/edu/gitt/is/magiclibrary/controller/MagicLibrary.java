@@ -14,6 +14,7 @@ import edu.gitt.is.magiclibrary.view.MLView;
  *
  */
 public class MagicLibrary {
+	/**maria carranco */
 	
 	private static BookListener bookListener;
 	private static ItemListener itemListener;
