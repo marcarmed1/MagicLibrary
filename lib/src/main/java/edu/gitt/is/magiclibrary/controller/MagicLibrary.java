@@ -22,7 +22,7 @@ public class MagicLibrary {
 	 * <p>Con esta operaci�n se indica a la aplicaci�n donde est� el fichero de propiedades de trazado</p>
 	 */
 	
-	/*
+	
 	static {
 	      String path = MagicLibrary.class.getClassLoader()
 	                                  .getResource("log.properties")
@@ -30,7 +30,7 @@ public class MagicLibrary {
 	      System.setProperty("java.util.logging.config.file", path);
 	     
 	}
-	*/
+	
 	private static Logger log=Logger.getLogger(MagicLibrary.class.getName());
 	
 	/**

@@ -1,9 +1,9 @@
 /**
  * 
- * <p>Este paquete contiene los aspectos relacionados con la interfaz gráfica de la aplicación MAGICLIBRARY</p>
- *
+ * <p>Este paquete contiene los aspectos relacionados con la interfaz grï¿½fica de la aplicaciï¿½n MAGICLIBRARY</p>
+ * <img src="./doc-files/VistaClases.gif" alt="Entidades Magic Library" height="50%" width="100%"/>
  * 
- * @author Isabel Román, para Ingeniería del software
+ * @author Isabel Romï¿½n, para Ingenierï¿½a del software
  * @version 0.0
  * 
  * 
